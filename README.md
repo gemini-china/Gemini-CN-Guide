@@ -1,5 +1,7 @@
 # Gemini 2.5 Pro 国内使用指南~含Gemini 2.5 Pro、Gemini 2.5 Flash【2025年9月】
 
+> 更新时间：2025/09/16
+
 本指南旨在为中文用户提供 Google 最新、最强大的 AI 模型——**Gemini 2.5 Pro** 的全面介绍，并推荐国内顶尖的 AI 平台，让您无需复杂配置，即可轻松上手体验其前沿功能。
 
 <img width="1680" height="840" alt="Gemini国内使用指南" src="https://github.com/user-attachments/assets/8a222d85-dadc-47d5-be79-996c454c7d61" />
